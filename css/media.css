@@ -1,0 +1,145 @@
+@media screen and (max-width: 480px) {
+    .header_menu, .first_screen__right {
+        display: none;
+    }
+
+    .wrapper {
+        padding: 0 20px;
+    }
+
+    .button_talk__to__us {
+        width: 190px;
+        position: inherit;
+    }
+
+    .first_screen__grid h1 {
+        font-size: 60px;
+        line-height: 63px;
+    }
+
+    .mobile_menu__button {
+        display: flex;
+    }
+
+    .second_screen__grid {
+        display: block;
+    }
+
+    .second_screen_right {
+        margin-left: 0;
+    }
+
+    .second_screen_right p {
+        width: 480px;
+    }
+    .second_screen__left > img {
+        width: 450px;
+    }
+
+    .second_screen__grid h2 {
+        font-style: normal;
+        font-weight: bold;
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .second_screen__grid p {
+        width: 450px;
+        margin-top: 0;
+    }
+
+    .tittle h5 {
+        font-size: 50px;
+        line-height: 58px;
+        margin-left: 10px;
+        padding-top: 60px;
+    }
+
+    .third_screen {
+        display: block;
+        margin-left: 50px;
+        padding-top: 20px;
+    }
+
+    .central_screen {
+        width: 480px;
+    }
+
+    .central_screen__first p {
+        font-size: 50px;
+    }
+
+    .new_screen {
+        display: block;
+    }
+
+    .new_screen__one {
+        display: block;
+    }
+
+    .new_screen__one__left p {
+        margin-top: 50px;
+        font-size: 40px;
+    }
+
+    .new_screen__one__right {
+        display: none;
+
+    }
+
+    .middle_screen__grid {
+        display: block;
+    }
+
+    .middle_screen__right {
+        display: none;
+    }
+
+    .last_screen__one {
+        display: block;
+        width: 450px;
+    }
+
+    .last_screen__one__left {
+        margin-left: 10px;
+    }
+
+    .last_screen__one__left h4 {
+        font-size: 30px;
+    }
+    .footer__grid{
+        width: 480px;
+    }
+    .text{
+        width: 480px;
+    }
+    .text p{
+        margin-right: 0;
+    }
+
+    .footer, .footer_middle, .footer_last {
+        width: 480px;
+    }
+
+    .footer_middle {
+        display: block;
+    }
+
+    .footer_middle h1 {
+        line-height: 50px;
+    }
+
+    .footer__last__left {
+        display: block;
+    }
+
+    .footer_last {
+        grid-column-gap: 50px;
+    }
+
+    .footer_last__right {
+        margin-top: 50px;
+    }
+
+
+}
